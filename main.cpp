@@ -1,3 +1,4 @@
+//Mikołaj Brycki
 #include <iostream>
 #include <math.h>
 
